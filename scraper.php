@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 // A scraper for airline information from PHL.org
 
 require 'scraperwiki/simple_html_dom.php'; 
